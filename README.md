@@ -1,0 +1,1 @@
+The goal of the program is to emulate the STL functions malloc, free, signal and alarm. Using Keil Uvision, a C file could be used as the main for the custom functions. Malloc and free are implementations of the buddy allocation system with proper splitting and coelescing.
